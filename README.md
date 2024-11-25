@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-- 💻 I’m currently working on Alfagift by Alfamart
-- 🌱 I’m currently learning Kotlin Compose, CI/CD
+- 💻 Currently working as an Engineering Manager 
+- 🌱 Interseted in exploring Infrastructure, CI/CD, Kotlin or Swift Multi Platform
 - 💬 Ask me anything related to Android Development / iOS Development / Leadership
 
 🔗 &nbsp;**Connect with me:**
