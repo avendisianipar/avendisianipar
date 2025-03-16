@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 - 💻 Fly as an Engineering Manager for Mobile Platform
-- ⌛️ Backed by previous multi-platform experience as a Desktop Programmer, Web Developer, Backend Engineer and iOS Engineer
-- 💬 Exicted to exploring Infrastructure, CI/CD, Automation, and AI 🤖
+- ⌛️ Backed by previous multi-platform experience as a 'Desktop-Web-Backend-iOS Engineer' across diverse industries, including Finance, Ride-Sharing, E-Commerce, and Online Groceries
+- 💬 Excited to explore Infrastructure, CI/CD, Automation, and AI! 🤖
 
 🔗 &nbsp;**Connect with me:**
 <p align="left">
