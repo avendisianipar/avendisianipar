@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-- 💻 Currently working as an Engineering Manager 
-- 🌱 Interseted in exploring Infrastructure, CI/CD, Kotlin or Swift Multi Platform
-- 💬 Ask me anything related to Android Development / iOS Development / Leadership
+- 💻 Fly as an Engineering Manager for Mobile Platform
+- ⌛️ Backed by previous multi-platform experience as a Desktop Programmer, Web Developer, Backend Engineer and iOS Engineer
+- 💬 Exicted to exploring Infrastructure, CI/CD, Automation, and AI 🤖
 
 🔗 &nbsp;**Connect with me:**
 <p align="left">
